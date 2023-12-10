@@ -1,0 +1,10 @@
+Subject: English
+Topics: noun
+Question: What is english
+Answer: English is english
+
+Subject: Maths
+Topics: circle
+Question: Triangle
+Answer: 1/2hl
+

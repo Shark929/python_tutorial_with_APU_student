@@ -1,0 +1,2 @@
+English, noun, verb, adjectives
+Maths, algebra, triangle, circle
